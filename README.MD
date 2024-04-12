@@ -10,17 +10,17 @@ This is an ETL pipeline built in python to take a flat file and be able to trans
 
 ## Features
 
-Extracts flat files such as a CSV
-Tranforms data by checking for duplicates, NaN values, or any data discrepancies
-Loads the data back ready for storage as a CSV
-Pipeline is also tested through pytest
+- Extracts flat files such as a CSV
+- Tranforms data by checking for duplicates, NaN values, or any data discrepancies
+- Loads the data back ready for storage as a CSV
+- Pipeline is also tested through pytest
 
 ## Dependencies
 
-Python 3.7
-Pandas
-Numpy
-pytest
+- Python 3.7
+- Pandas
+- Numpy
+- pytest
 
 ## Setup
 
