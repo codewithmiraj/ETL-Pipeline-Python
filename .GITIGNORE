@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+transformed_data/
+image-1.png/
+image.png/
